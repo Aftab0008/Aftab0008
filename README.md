@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Aftab Alam (Aftab0008)</h1>
-<h3 align="center">🚀 BCA Student | Web Dev Learner | 3D & Game Dev Enthusiast</h3>
+<h3 align="center">🚀 BCA Student | Web Dev Learner | 3D model Simulation</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-aftab-alam-b95234274/" target="_blank">
@@ -12,7 +12,7 @@
 🎓 **About Me**
 - Pursuing Bachelor of Computer Applications (BCA)
 - Building projects with **HTML, CSS, JavaScript**
-- Exploring **React.js**, **Blender**, and **Unity** for 3D & game development
+- Exploring **React.js**, **Blender**, and **Unity** for 3D & web development
 - Passionate about creating immersive user experiences
 
 ---
